@@ -2,11 +2,12 @@
   "name": "timetracker",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://kbroadie.github.io",
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack serve --mode development",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
