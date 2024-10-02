@@ -2,7 +2,7 @@
   "name": "timetracker",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://kbroadie.github.io",
+  "homepage": "https://kbroadie.github.io/timetracker",
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack serve --mode development",
